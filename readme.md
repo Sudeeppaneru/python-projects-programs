@@ -1,1 +1,1 @@
-This is a repo for data structures and algorithms
+### THIS GIT REPO CONTAINS MINI PROJECTS CREATED WHEN PRACTICING PYTHON

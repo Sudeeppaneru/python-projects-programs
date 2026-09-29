@@ -8,6 +8,6 @@ noun3 = input("Enter a noun: ")
 
 story = f"Once dining {noun1} used to be war {noun2}. I thought the battles about correct table {p_noun} would never end. It was us kids versus Mom, and It seemed like a fight that would last to the {adjective1} end. But tonight Dad finally declared a/an {adjective2} truce, and we negotiated a/an {adjective3} peace {noun3}."
 
-print(story)
+print(story , story)
 
 
